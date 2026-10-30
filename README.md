@@ -26,7 +26,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering** at Lakshmi Narain College of Technology, Bhopal (2024–2028)
 - 🌐 Building full-stack applications with the **MERN stack**
 - ☕ Practising **Data Structures & Algorithms in Java**
 - 🤖 Exploring **Generative AI, LLM integration, and Agentic AI**
@@ -54,10 +53,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code">
 
 </div>
-
-<p align="center">
-  <strong>Currently learning:</strong> Spring Boot · Backend Architecture · LLM Integration · AI Agents
-</p>
 
 ## 🚀 Featured Projects
 
@@ -90,29 +85,6 @@
   <br>
   <img src="https://streak-stats.demolab.com?user=anmol-sh04&hide_border=true" alt="GitHub contribution streak">
 </div>
-
-## 🎯 Current Focus
-
-- Strengthening problem-solving skills with **Java and DSA** — 100+ LeetCode problems solved
-- Building robust backend applications and learning **Spring Boot**
-- Understanding software architecture and system design
-- Exploring practical applications of **Generative AI and Agentic AI**
-
-## 📜 Certifications
-
-- Python for Data Analytics — Cisco
-- Python Essentials — Cisco
-- Introduction to IoT — Cisco
-
-## 🎓 Education
-
-| Qualification | Institution | Details |
-|---|---|---|
-| B.Tech, Computer Science & Engineering | Lakshmi Narain College of Technology, Bhopal | 2024–2028 |
-| CBSE Class XII | Mithi Gobindram Public School | 90% |
-| CBSE Class X | Mithi Gobindram Public School | 91.3% |
-
-**JEE Main:** 93.06 percentile
 
 ---
 
