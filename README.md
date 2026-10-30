@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🤖 AI-Powered Upskilling Platform <sup>IN PROGRESS</sup></h3>
+      <h3>🤖 AI-Powered Upskilling Platform &nbsp;<img src="https://img.shields.io/badge/IN%20PROGRESS-8B5CF6?style=flat-square" alt="In Progress"></h3>
       <p>An adaptive learning platform that identifies skill gaps through assessments and guides learners with personalized learning paths. Working on backend services using Spring Boot and Node.js, with LLM-powered question generation.</p>
       <p><sub>SPRING BOOT · NODE.JS · REST APIs · LLM INTEGRATION</sub></p>
     </td>
@@ -86,10 +86,6 @@
 <a href="https://github.com/anmol-sh04">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-sh04&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Most used languages">
 </a>
-
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=anmol-sh04&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=C9D1D9" alt="GitHub contribution streak">
 
 </div>
 
