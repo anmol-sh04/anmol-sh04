@@ -1,69 +1,129 @@
-# Hi, I'm Anmol Sharma 👋
+<div align="center">
 
-### Software Developer | Full-Stack Development | AI Engineering
+# Anmol Sharma
 
-I'm a Computer Science undergraduate interested in building practical software, backend systems, and AI-powered applications. I enjoy solving problems with Java and exploring how modern web technologies and LLMs can work together.
+### Software Developer · MERN Stack · Java DSA · Exploring Generative AI
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Currently strengthening **Java, DSA, Spring Boot, and backend development**
-- 🌐 Experience building with the **MERN stack** and **Next.js**
+<p>
+  <a href="https://github.com/anmol-sh04">
+    <img src="https://img.shields.io/badge/GitHub-anmol--sh04-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/anmol-sharma">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:anmolsharma10204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p>
+  <em>Building useful products, solving problems, and learning something new every day.</em>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **B.Tech in Computer Science & Engineering** at Lakshmi Narain College of Technology, Bhopal (2024–2028)
+- 🌐 Building full-stack applications with the **MERN stack**
+- ☕ Practising **Data Structures & Algorithms in Java**
 - 🤖 Exploring **Generative AI, LLM integration, and Agentic AI**
 - 🚀 Participant in the **EPAM COE program**
+- 📍 Bhopal, Madhya Pradesh, India
 
----
+## 🛠️ Tech Stack
 
-### Tech Stack
+<div align="center">
 
 **Languages**
-- Java · JavaScript · Python (learning)
+
+<img src="https://skillicons.dev/icons?i=java,js,python" alt="Java, JavaScript, Python">
 
 **Frontend**
-- React · Next.js · HTML · CSS · Tailwind CSS
 
-**Backend**
-- Node.js · Express.js · Spring Boot (learning) · REST APIs
+<img src="https://skillicons.dev/icons?i=react,html,css" alt="React, HTML, CSS">
 
-**Databases**
-- MongoDB · PostgreSQL (learning)
+**Backend & Database**
 
-**AI & Tools**
-- LLM APIs · OpenRouter · Git · GitHub · Docker (learning)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, MongoDB">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code">
+
+</div>
+
+<p align="center">
+  <strong>Currently learning:</strong> Spring Boot · Backend Architecture · LLM Integration · AI Agents
+</p>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/anmol-sh04/AI-LifeSaver">AI LifeSaver</a></h3>
+      <p>AI-assisted task planning and deadline tracker designed to help users organize daily tasks and stay ahead of deadlines.</p>
+      <p><strong>Focus:</strong> Full-stack development · AI-assisted productivity</p>
+    </td>
+    <td width="50%">
+      <h3>EduAttend</h3>
+      <p>Smart attendance monitoring application aimed at reducing manual attendance effort and improving attendance management for colleges.</p>
+      <p><strong>Stack:</strong> MongoDB · Express · React · Node.js</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>AI-Powered Upskilling Platform <em>(In Progress)</em></h3>
+      <p>Building an adaptive learning platform that identifies skill gaps through assessments and guides learners with personalized learning paths. Working with Spring Boot, Node.js, and LLM-powered question generation.</p>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anmol-sh04&show_icons=true&hide_border=true&rank_icon=github" alt="Anmol's GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-sh04&layout=compact&hide_border=true" alt="Most used languages">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=anmol-sh04&hide_border=true" alt="GitHub contribution streak">
+</div>
+
+## 🎯 Current Focus
+
+- Strengthening problem-solving skills with **Java and DSA** — 100+ LeetCode problems solved
+- Building robust backend applications and learning **Spring Boot**
+- Understanding software architecture and system design
+- Exploring practical applications of **Generative AI and Agentic AI**
+
+## 📜 Certifications
+
+- Python for Data Analytics — Cisco
+- Python Essentials — Cisco
+- Introduction to IoT — Cisco
+
+## 🎓 Education
+
+| Qualification | Institution | Details |
+|---|---|---|
+| B.Tech, Computer Science & Engineering | Lakshmi Narain College of Technology, Bhopal | 2024–2028 |
+| CBSE Class XII | Mithi Gobindram Public School | 90% |
+| CBSE Class X | Mithi Gobindram Public School | 91.3% |
+
+**JEE Main:** 93.06 percentile
 
 ---
 
-### Projects
+<div align="center">
 
-#### [AI LifeSaver](https://github.com/anmol-sh04/AI-LifeSaver)
-An AI-powered productivity application built with Next.js. It includes task management, AI-generated daily briefings, a rescue mode, productivity tracking, and focus tools.
+### Let's Connect
 
-**Tech:** Next.js · MongoDB · Auth.js · Gemini API
+<a href="mailto:anmolsharma10204@gmail.com">Email</a> ·
+<a href="https://linkedin.com/in/anmol-sharma">LinkedIn</a> ·
+<a href="https://github.com/anmol-sh04">GitHub</a>
 
-#### AI-Powered Upskilling Platform *(in progress)*
-An adaptive learning platform designed to identify skill gaps and guide learners through personalized assessments and learning paths. The backend uses Spring Boot alongside a Node.js question-generation service integrated with an LLM.
+<sub>Always learning. Always building. Always improving.</sub>
 
-**Exploring:** Spring Boot · Node.js · REST APIs · LLM integration
-
-#### [Backend Development](https://github.com/anmol-sh04/Backend-development)
-A repository for backend development practice and learning.
-
-#### [EPAM Project 26](https://github.com/anmol-sh04/EPAM-project-26)
-Coursework and practice covering web fundamentals, Java, algorithms, and problem-solving.
-
----
-
-### What I'm Working On
-
-- Improving problem-solving skills with **Java and Data Structures & Algorithms**
-- Building backend applications using **Spring Boot**
-- Learning how to design reliable and scalable systems
-- Experimenting with **LLM-powered features and AI agents**
-
----
-
-### Connect
-
-- GitHub: [@anmol-sh04](https://github.com/anmol-sh04)
-
----
-
-*Always learning, building, and improving.*
+</div>
